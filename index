@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172665450-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-172665450-1');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ADVANCED DOT</title>
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="./css/all.css">
+    <!--owlCarousel-->
+    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+    <!--xowlCarouselx-->
+    <!--AOS LIBRARY-->
+    <link rel="stylesheet" href="./css/aos.css">
+    <!--xAOS LIBRARY---X-->
+
+    <link rel="stylesheet" href="./css/Template1.css">
+    <script data-ad-client="pub-7978744379182027" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head>
+
+<body oncontextmenu="return false">
+
+    <!--Navigation -->
+
+    <nav class="nav">
+        <div class="nav-menu flex-row">
+            <div class="nav-brand">
+                <a href="#" class="text-gray">ADVANCED DOT</a>
+            </div>
+            <div class="toggle-collapse">
+                <div class="toggle-icons">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+
+            <div>
+                <ul class="nav-items">
+                    <li class="nav-link active">
+                        <a href="./index.html">Home</a>
+                    </li>
+                    <li class="nav-link active">
+                        <a href="./tech.html">Tech</a>
+                    </li>
+                    <li class="nav-link active">
+                        <a href="videos.html">Video Voyage</a>
+                    </li>
+                    <li class="nav-link active">
+                        <a href="shopping.html">Shopping</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="social text-gray">
+                <a href="https://www.facebook.com/junaid.ahamed.796/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/junaid_00016/" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- x Navigation x  -->
+
+    <!--Main-site-->
+    <main>
+        <!--Site title-->
+        <section class="site-title">
+            <div class="site-background" data-aos="fade-up" data-aos-delay="100">
+                <h3>Advancement Through Technology</h3>
+                <h1>INNovate the IMPossible</h1>
+                <a href="#apps"><button class="btn">Dive-IN</button></a>
+
+            </div>
+
+
+
+        </section>
+
+
+
+        <!--xSite titlex-->
+
+        <!--Premium Apps-->
+        <section>
+            <div class="apps" id="apps">
+                <div class="container">
+                    <div class="owl-carousel owl-theme apps-post">
+                        <div class="apps-content" data-aos="fade-right" data-aos-delay="300">
+                            <img src="./img/netflix.jpg" alt="NETFLIX">
+                            <div class="apps-title">
+                                <h3>PREMIUM NETFLIX SUBSCRIPTION</h3>
+                                <a href="https://download6.cinehub.to/cinehub-2.2.2.apk"><button class="btn btn-apps">FLICK</button></a>
+                                <span>ENJOY!!</span>
+                            </div>
+                        </div>
+                        <div class="apps-content" data-aos="fade-in" data-aos-delay="200">
+                            <img src="./img/prime2.png" alt="PRIME">
+                            <div class="apps-title">
+                                <h3>PRIME SUBSCRIPTION</h3>
+                                <a href="https://www.mediafire.com/file/qsx5su0c16m7hp6/prime_video_v1_poptv.apk/file"><button class="btn btn-apps">FLICK</button></a>
+                                <span>ENJOY!!</span>
+                            </div>
+                        </div>
+                        <div class="apps-content" data-aos="fade-left" data-aos-delay="300">
+                            <img src="./img/Zee5,1.jpg" alt="zee5">
+                            <div class="apps-title">
+                                <h3>PREMIUM ZEE5 SUBSCRIPTION</h3>
+                                <a href="http://file.techbigsdl.com/Zee5-Premium-17.0.0.6-Mod-TechBigs.Com.apk"><button class="btn btn-apps">FLICK</button></a>
+                                <span>ENJOY!!</span>
+                            </div>
+                        </div>
+                        <div class="apps-content" data-aos="fade-right" data-aos-delay="200">
+                            <img src="./img/spotify.jpg" alt="SPOTIFY">
+                            <div class="apps-title">
+                                <h3>PREMIUM SPOTIFY SUBSCRIPTION</h3>
+                                <a href="http://www.mediafire.com/file/ssomjs125svnz9i/Spotify-v8.5.55.1105.apk/file"><button class="btn btn-apps">FLICK</button></a>
+                                <span>ENJOY!!</span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="owl-navigation">
+                        <span class="owl-nav-prev"><i class="fas fa-long-arrow-alt-left"></i> </span>
+                        <span class="owl-nav-next"><i class="fas fa-long-arrow-alt-right"></i> </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--xPremium Appsx-->
+
+
+        <!-- SITE CONTENT -->
+        <section class="container">
+            <div class="site-content">
+                <div class="posts">
+                    <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="post-image">
+                            <div>
+                                <img src="./img/g.jpg" class="img" alt="Google">
+                            </div>
+                            <div class="post-info flex-row">
+                                <span><i class ="fas fa-mobile text-gray">Google</i></span>
+                            </div>
+                        </div>
+                        <div class="post-title">
+                            <a href="https://gadgets.ndtv.com/internet/news/google-cloud-black-friday-surge-peak-record-retailer-websites-2273992">Google Cloud Prepares for Black Friday 'Peak on Top of Peak'</a>
+                            <p>Alphabet's Google Cloud unit is poised for a surge in fourth-quarter sales from US retailers, as they brace for record online shopping during the holidays because of COVID-19 lockdowns.Cloud technology, used to host websites
+                                and store data, is a key part of many retailers' e-commerce operations. As fees are often pegged to site traffic, a jump in activity will drive up revenue for the unit.Carrie Tharp, vice president of retail and consumer
+                                at Google Cloud, told Reuters that her team had this year tossed out its linear growth model to predict how many servers it will need to process web orders for retailers around Black Friday.</p>
+                            <a href="https://gadgets.ndtv.com/internet/news/google-cloud-black-friday-surge-peak-record-retailer-websites-2273992"><button class="btn post-btn">READ MORE &nbsp;<i class="fas fa-arrow-right"></i></button></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="post-image">
+                            <div>
+                                <img src="./img/r2.jpeg" alt="Realme">
+                            </div>
+                            <div class=" post-info flex-row ">
+                                <span><i class ="fas fa-mobile text-gray ">Realme</i></span>
+                            </div>
+                        </div>
+                        <div class="post-title ">
+                            <a href="https://gadgets.ndtv.com/mobiles/news/realme-x2-pro-realme-6-july-2020-security-patch-bug-fix-improvements-rollout-2273986">Realme X2 Pro, Realme 6 Start Receiving Android July 2020 OTA Update With Optimisations, Bug Fixes</a>
+                            <p>Realme X2 Pro and Realme 6 have started receiving over-the-air (OTA) updates that include July 2020 security patch along with a few optimisations and bug fixes. Realme has posted that the updates are being rolled out in batches,
+                                and they will be available to all the users very soon. While the Realme X2 Pro was launched last year, the Realme 6 debuted in March this year. Both these phones have already received a few updates in the recent months.
+                            </p>
+                            <a href="https://gadgets.ndtv.com/mobiles/news/realme-x2-pro-realme-6-july-2020-security-patch-bug-fix-improvements-rollout-2273986"><button class="btn post-btn ">READ MORE &nbsp;<i class="fas fa-arrow-right "></i></button></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="post-content " data-aos="zoom-in " data-aos-delay="200 ">
+                        <div class="post-image ">
+                            <div>
+                                <img src="./img/w.webp" class="img " alt="Sony">
+                            </div>
+                            <div class="post-info flex-row ">
+                                <span><i class ="fas fa-mobile text-gray ">Sony</i></span>
+                            </div>
+                        </div>
+                        <div class="post-title ">
+                            <a href="https://gadgets.ndtv.com/audio/news/sony-wf-1000xm3-true-wireless-earphones-price-in-india-rs-19990-specifications-active-noise-cancellation-2273864">Sony WF-1000XM3 True Wireless Earphones With Active Noise Cancellation Launched in India, Priced at Rs. 19,990</a>
+                            <p>Sony WF-1000XM3 true wireless earphones with active noise cancellation have been launched in India. The new flagship earphones were launched globally in 2019, and are finally making their way to India. Carrying a retail price
+                                tag of Rs. 19,990, the Sony WF-1000XM3 will be available at an introductory price of Rs. 17,990 for a period of 10 days. The earphones go on sale on August 6 and will be available both online and offline across Sony retail
+                                stores, Sony's online store, major electronics retailers, and Amazon.</p>
+                            <a href="https://gadgets.ndtv.com/audio/news/sony-wf-1000xm3-true-wireless-earphones-price-in-india-rs-19990-specifications-active-noise-cancellation-2273864"><button class="btn post-btn">READ MORE &nbsp;<i class="fas fa-arrow-right"></i></button></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="post-image">
+                            <div>
+                                <img src="./img/b4.webp" class="img" alt="TikTok">
+                            </div>
+                            <div class=" post-info flex-row ">
+                                <span><i class ="fas fa-mobile text-gray ">TikTok</i></span>
+                            </div>
+                        </div>
+                        <div class="post-title ">
+                            <a href="https://gadgets.ndtv.com/apps/news/tiktok-internatioal-headquarters-plans-bytedance-2273771">ByteDance to Consider International Headquarters for TikTok Outside US</a>
+                            <p>Chinese tech company ByteDance said on Monday it was considering moving the headquarters of its TikTok video sharing platform overseas, following a British media report that the unit could relocate to London.TikTok is under
+                                heavy fire from US President Donald Trump and other American politicians over concerns that it poses a national security risk, and Microsoft has emerged as a possible buyer of TikTok's US operations.
+                            </p>
+                            <a href="https://gadgets.ndtv.com/apps/news/tiktok-internatioal-headquarters-plans-bytedance-2273771"><button class="btn post-btn ">READ MORE &nbsp;<i class="fas fa-arrow-right "></i></button></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="post-image">
+                            <div>
+                                <img src="./img/p2.webp" class="img" alt="Google">
+                            </div>
+                            <div class="post-info flex-row">
+                                <span><i class ="fas fa-mobile text-gray">Google</i></span>
+                            </div>
+                        </div>
+                        <div class="post-title">
+                            <a href="https://gadgets.ndtv.com/mobiles/news/google-pixel-4a-india-launch-date-october-price-usd-349-specifications-features-ten-points-2273767">Google Pixel 4a Launching in India in October via Flipkart</a>
+                            <p>Google Pixel 4a is official after multiple delays and a multitude of rumours as well as leaks. Google on Monday unveiled the new Pixel phone as its latest affordable model after last year's Pixel 3a and Pixel 3a XL. The Pixel
+                                4a India launch is set for October. However, it is already available for pre-orders in the US, with its sale scheduled for August 20. The Pixel 4a shares the camera experience of the Pixel 4. It also comes with some of
+                                the preloaded features that debuted on the last year Pixel flagship.</p>
+                            <a href="https://gadgets.ndtv.com/mobiles/news/google-pixel-4a-india-launch-date-october-price-usd-349-specifications-features-ten-points-2273767"><button class="btn post-btn">READ MORE &nbsp;<i class="fas fa-arrow-right"></i></button></a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="post-image">
+                            <div>
+                                <img src="./img/o3.webp" class="img" alt="Nord">
+                            </div>
+                            <div class=" post-info flex-row ">
+                                <span><i class ="fas fa-gamepad text-gray ">Nord</i></span>
+                            </div>
+                        </div>
+                        <div class="post-title ">
+                            <a href="https://gadgets.ndtv.com/mobiles/news/oneplus-nord-sale-delay-august-6-india-unprecedented-demand-during-pre-order-2273758">OnePlus Nord Open Sale Delayed to August 6 Due to ‘Unprecedented Demand During Pre-Order’</a>
+                            <p>OnePlus Nord sale in India has been delayed, and it will now begin on August 6. OnePlus had earlier announced its open sale for August 4, but seems to have quietly changed the dates, claiming an unprecedented demand during
+                                the pre-order. The company claims stocks have depleted faster than anticipated due to the demand. The sale has therefore been pushed further by two days to replenish stocks and get ready for the demand.</p>
+                            <a href="https://gadgets.ndtv.com/mobiles/news/oneplus-nord-sale-delay-august-6-india-unprecedented-demand-during-pre-order-2273758"><button class="btn post-btn ">READ MORE &nbsp;<i class="fas fa-arrow-right "></i></button></a>
+                        </div>
+                    </div>
+                    <div class="pagination flex-row ">
+                        <a href="./index.html "><i class ="fas fa-chevron-left "></i></a>
+                        <a href="./index.html " class="pages ">1</a>
+                        <a href="./news.html " class="pages ">2</a>
+
+                        <a href="./news.html"><i class ="fas fa-chevron-right "></i></a>
+                    </div>
+                </div>
+                <aside class="sidebar ">
+                    <div class="category ">
+                        <h2>Category</h2>
+                        <ul class="category-list ">
+                            <li class="list-items " data-aos="fade-left" data-aos-delay="100 "><a href="# ">SOFTWARES</a><span>(05)</span></li>
+                            <li class="list-items " data-aos="fade-left " data-aos-delay="200 "><a href="# ">TECHNOLOGY</a><span>(08)</span></li>
+                            <li class="list-items " data-aos="fade-left" data-aos-delay="300 "><a href="# ">MOVIES</a><span>(07)</span></li>
+                            <li class="list-items " data-aos="fade-left" data-aos-delay="400 "><a href="# ">GREAT DEALS</a><span>(10)</span></li>
+                            <li class="list-items " data-aos="fade-left" data-aos-delay="500 "><a href="# ">LIFESTYLE</a><span>(04)</span></li>
+
+                        </ul>
+                    </div>
+                    <div class="popular-post ">
+                        <h2>Popular Post</h2>
+                        <div class="post-content " data-aos="flip-up " data-aos-delay="200 ">
+                            <div class="post-image ">
+                                <div>
+                                    <img src="./img/windows.png " class="img " alt="WINDOWS 10 UPDATE ">
+                                </div>
+                                <div class="post-info flex-row ">
+                                    <span><i class ="fas fa-laptop text-gray ">WINDOWS 10 UPDATE</i></span>
+                                </div>
+                            </div>
+                            <div class="post-title ">
+                                <a href="https://support.microsoft.com/en-us/help/4043948/windows-10-whats-new-in-recent-updates#:~:text=New%20features%20in%20recent%20Windows,phones%20(7.0%20or%20later).&text=See%20Get%20the%20Windows%2010%20May%202020%20Update. ">What’s New in Windows 10’s May 2020 Update, Available Now..?</a>
+                            </div>
+                        </div>
+                        <div class="post-content " data-aos="flip-up " data-aos-delay="300 ">
+                            <div class="post-image ">
+                                <div>
+                                    <img src="./img/vivo.webp " class="img " alt="vivoX50 ">
+                                </div>
+                                <div class="post-info flex-row ">
+                                    <span><i class ="fas fa-mobile text-gray ">Latest Mobile</i></span>
+                                </div>
+                            </div>
+                            <div class="post-title ">
+                                <a href="https://www.indiatoday.in/technology/news/story/vivo-x50-series-confirmed-for-july-16-india-launch-expected-price-specs-features-1699954-2020-07-13 ">Vivo X50 series confirmed for July 16 India launch</a>
+                            </div>
+                        </div>
+                        <div class="post-content " data-aos="flip-up " data-aos-delay="400 ">
+                            <div class="post-image ">
+                                <div>
+                                    <img src="./img/1+.webp " class="img " alt="OnePlus ">
+                                </div>
+                                <div class="post-info flex-row ">
+                                    <span><i class ="fas fa-mobile text-gray ">EarPods</i></span>
+                                </div>
+                            </div>
+                            <div class="post-title ">
+                                <a href="https://www.indiatoday.in/technology/news/story/oneplus-pods-truly-wireless-earbuds-teased-ahead-of-oneplus-nord-july-21-launch-1699924-2020-07-13 ">OnePlus Pods truly wireless earbuds teased</a>
+                            </div>
+                        </div>
+                        <div class="post-content " data-aos="flip-up " data-aos-delay="500 ">
+                            <div class="post-image ">
+                                <div>
+                                    <img src="./img/oneplus2.jpg " class="img " alt="OnePlus ">
+                                </div>
+                                <div class="post-info flex-row ">
+                                    <span><i class ="fas fa-mobile text-gray ">OnePlus Nord</i></span>
+                                </div>
+                            </div>
+                            <div class="post-title ">
+                                <a href="https://indianexpress.com/article/technology/mobile-tabs/oneplus-nord-first-look-6498837/?amp_js_v=a2&amp_gsa=1&usqp=mq331AQFKAGwASA=&utm_source=Taboola_Recirculation&utm_medium=RC&utm_campaign=IE ">First look at OnePlus Nord</a>
+                            </div>
+                        </div>
+                        <div class="post-content " data-aos="flip-up " data-aos-delay="600 ">
+                            <div class="post-image ">
+                                <div>
+                                    <img src="./img/bat.jpg " class="img " alt="BATMAN ">
+                                </div>
+                                <div class="post-info flex-row ">
+                                    <span><i class ="fas fa-film text-gray ">HBO</i></span>
+                                </div>
+                            </div>
+                            <div class="post-title ">
+                                <a href="https://indianexpress.com/article/entertainment/web-series/robert-pattinson-the-batman-to-get-a-tv-spinoff-series-6499803/ ">Matt Reeves developing The Batman series for HBO Max</a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="newsletter " data-aos="fade-up " data-aos-delay="300 ">
+                        <h2>News Letter</h2>
+                        <div class="form-element ">
+                            <input type="text " class="input-element " placeholder="Email ">
+                            <button class="btn form-btn ">Subscribe</button>
+                        </div>
+                    </div>
+                    <div class="popular-tags ">
+                        <h2>Popular Tags</h2>
+                        <div class="tags flex-row ">
+                            <span class="tag " data-aos="flip-up " data-aos-delay="100 ">Software</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="200 ">Technology</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="300 ">Travel</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="400 ">Design</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="500 ">Illustration</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="600 ">Lifestyel</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="700 ">Project</span>
+                            <span class="tag " data-aos="flip-up " data-aos-delay="800 ">Love</span>
+                        </div>
+                    </div>
+
+                </aside>
+            </div>
+        </section>
+
+
+
+
+        <!--xSITE CONTENT x-->
+
+    </main>
+    <!--x Main-site x-->
+
+
+    <!--FOOTER-->
+    <footer class="footer ">
+        <div class="container ">
+            <div class="about-us " data-aos="fade-right " data-aos-delay="200 ">
+                <h2>About Us</h2>
+                <p>We are here to transform the lives of a common man to a new advanced living,by providing Tech ideas,news,apps so that everyone can use.Digitilize your lives with
+                    <h4 class="text-gray ">
+                        <a href="./index.html "> ADVANCED DOT</a>
+                    </h4>
+                </p>
+
+            </div>
+            <div class="newsletter " data-aos="fade-right " data-aos-delay="200 ">
+                <h2>News Letter</h2>
+                <p>Stay updated with our latest posts</p>
+                <div class="form-element ">
+                    <input type="text " placeholder="Email "><span><i class="fas fa-chevron-right "></i></span>
+                </div>
+            </div>
+            <div class="instagram " data-aos="fade-left " data-aos-delay="200 ">
+                <h2>Instagram</h2>
+                <div class="flex-row ">
+                    <img src="./img/insta1.png " alt="inst1 ">
+                    <img src="./img/insta2.png " alt="inst2 ">
+                    <img src="./img/insta3.png " alt="inst3 ">
+                </div>
+                <div class="flex-row ">
+
+
+                    <img src="./img/insta4.png " alt="inst4 ">
+                    <img src="./img/insta5.png " alt="inst5 ">
+                    <img src="./img/insta6.png " alt="inst6 ">
+                </div>
+
+
+            </div>
+            <div class="follow " data-aos="fade-left " data-aos-delay="200 ">
+                <h2>Follow us </h2>
+                <p>Let us be social</p>
+                <div>
+                    <a href="https://www.facebook.com/junaid.ahamed.796/ " target="_blank "><i class="fab fa-facebook-f "></i></a>
+                    <a href="https://www.instagram.com/junaid_00016/ " target="_blank "><i class="fab fa-instagram "></i></a>
+                    <i class="fab fa-youtube "></i>
+                    <i class="fab fa-twitter "></i>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="rights flex-row ">
+            <h4 class="text-gray ">
+                Copyright ©2020. All rights reserved. | made by <a href="# ">Advanced Dot <i class="fab fa-youtube "></i></a>
+            </h4>
+        </div>
+        <div class="move-up ">
+            <span><i class="fas fa-arrow-circle-up fa-2x "></i></span>
+        </div>
+
+    </footer>
+
+
+
+    <!-- x FOOTER x -->
+
+
+
+
+    <script src=" js/jquery3.5.1.min.js "></script>
+    <!--Owl carousel-->
+    <script src="js/owl.carousel.min.js "></script>
+
+    <!--x Owl carousel x-->
+    <!--AOS LIBRARY-->
+    <script src="./js/aos.js "></script>
+
+    <!---x AOS LIBRARY x-->
+    <script src="js/main.js "></script>
+
+
+    <script>
+        document.onkeydown = function(e) {
+            if (event.keyCode == 123) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'I '.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'J '.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.keyCode == 'U '.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.keyCode == 'C '.charCodeAt(0)) {
+                return false;
+            }
+
+
+        }
+    </script>
+
+
+</body>
+
+</html>
